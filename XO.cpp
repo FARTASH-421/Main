@@ -141,7 +141,8 @@ if(player=='X')
     player='O';
 else{
   player='X';
-  }
+  } 
+        
 }
 int main()
 { n=0;
